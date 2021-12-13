@@ -14,5 +14,6 @@ It should starting at [https://localhost:7176/](https://localhost:7176/)
 We can check all endpoints calling [swagger api](https://localhost:7176/swagger/index.html)
 
 ## No css Framework used
+Was created a beautifull page using only SASS in a modularized CSS
 
 ## No unit test until now
