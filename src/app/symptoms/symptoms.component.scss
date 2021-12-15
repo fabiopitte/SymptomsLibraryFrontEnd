@@ -1,0 +1,55 @@
+.container-create{
+  width: 100%;
+  position: relative;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.input-create {
+  height: 50px;
+  width: 100%;
+  border: 0;
+  font-size: 22px;
+  outline: 0;
+  text-indent: 10px;
+  border-bottom: 1px solid #e56b6f;
+}
+
+.title {
+  position: relative;
+  top: 29px;
+  left: 18px;
+  font-weight: 600;
+  color: #b56576;
+  background: #fff;
+}
+
+.svg-save-button {
+  width: 25px;
+  color: #b56576;
+  position: absolute;
+  right: 0;
+  top: 17px;
+}
+
+ul {
+  padding: 1rem;
+  list-style-type: none;
+  font-size: 21px;
+  border: 1px solid #e56b6f;
+
+  li {
+    margin-bottom: 10px;
+    border: 1px solid #e56b6f;
+    border-radius: 3px;
+    padding: 1rem;
+    background: rgba(229, 107, 111, 0.05);
+    color: #b56576;
+
+    &:hover {
+      background: #fff;
+    }
+  }
+}
